@@ -6,7 +6,7 @@ For example to type the letter B a user would press the number 2 twice, for the 
 
 See [here](https://github.com/trik-1/java-interview-challenge/blob/master/keypad.jpg)
 
-The challenge is to fill in the `String getDialForString(String text)` in the `KeypadUtils` class to return the appropriate string for the given text.
+The challenge is to fill in the `String getDialForString(String text)` in the `KeypadUtils` class to return the appropriate string for the given text. Tests are provided. You are also expected to add some relevant test cases for the problem.
 
 Spaces should return the string 0 in its position.
 Any non alphanumeric characters should have 1 in the position.
