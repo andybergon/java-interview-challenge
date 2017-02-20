@@ -12,7 +12,7 @@ Spaces should return the string 0 in its position.
 Any non alphanumeric characters should have 1 in the position.
 Any Numeric character should return the number itsself in position.
 
-Sample input "Hel4lo ?" sample output -> "43545601", "H*#)(*&" -> "4111111"
+Sample input "Hel4lo ?" sample output -> "43545601", "H\*#)(*&" -> "4111111"
 
 Note: The return type here is String not Long or Integer.
 
