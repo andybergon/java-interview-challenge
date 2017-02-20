@@ -10,7 +10,7 @@ The challenge is to fill in the `String getDialForString(String text)` in the `K
 
 Spaces should return the string 0 in its position.
 Any non alphanumeric characters should return 1.
-Any Numeric character should return the number.
+Any Numeric character should return the number itsself in position.
 
 Sample input "Hel4lo ?" sample output -> "63545601"
 
