@@ -6,16 +6,17 @@ For example to type the letter B a user would press the number 2 twice, for the 
 
 See [here](https://github.com/trik-1/java-interview-challenge/blob/master/keypad.jpg)
 
-The challenge is to fill in the `String getDialForString(String text)` in the `KeypadUtils` class to return the appropriate string for the given text.
+The challenge is to fill in the `String getDialForString(String text)` in the `KeypadUtils` class to return the appropriate string for the given text. Tests are provided. You are also expected to add some relevant test cases for the problem.
 
 Spaces should return the string 0 in its position.
-Any non alphanumeric characters should return 1.
+Any non alphanumeric characters should have 1 in the position.
+Any Numeric character should return the number itsself in position.
 
-Sample input "Hel4lo ?" sample output -> "63545601"
+Sample input "Hel4lo ?" sample output -> "43545601", "H\*#)(*&" -> "4111111"
 
 Note: The return type here is String not Long or Integer.
 
-Once implemented also add any test cases to the KeypadUtilsTest class to cover any missing scenarios.
+Once implemented also add any test cases to the KeypadUtilsTest class to cover any missing scenarios along with any improvements to the existing tests and classes which you feel are appropriate.
 
 The `String getDialForString(String text)` should throw an appropriate exception for invalid input.
 
