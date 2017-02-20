@@ -1,8 +1,10 @@
 #Interview Challenge
 
-**The problem
+####The problem
 Older mobile phones generally had users enter in alphabetic characters by mapping characters to numbers on the keypad ad different positions. 
 For example to type the letter B a user would press the number 2 twice, for the letter Y the user would press the number 9 three times.
+
+See [here](https://github.com/trik-1/java-interview-challenge/blob/master/keypad.jpg)
 
 The challenge is to fill in the `String getDialForString(String text)` in the `KeypadUtils` class to return the appropriate string for the given text.
 
@@ -17,7 +19,7 @@ Once implemented also add any test cases to the KeypadUtilsTest class to cover a
 
 The project is gradle based but a gradle project does not need to be submitted. Feel free to copy the relevant classes to your own project.
 
-**Submission
+####Submission
 If possible please open a pull request against this repo to submit. Submissions via email also accepted.
 
 
