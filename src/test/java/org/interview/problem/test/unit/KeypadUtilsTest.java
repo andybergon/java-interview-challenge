@@ -11,7 +11,7 @@ import static org.junit.Assert.assertNotEquals;
 
 public class KeypadUtilsTest{
 
-    @Test(expected = IllegalArgumentException.class)
+    @Test(expected = Exception.class)
     public void testKeypadError(){
         KeypadUtils.getDialForString(null);
     }
