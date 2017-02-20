@@ -17,6 +17,8 @@ Note: The return type here is String not Long or Integer.
 
 Once implemented also add any test cases to the KeypadUtilsTest class to cover any missing scenarios.
 
+The `String getDialForString(String text)` should throw an appropriate exception for invalid input.
+
 The project is gradle based but a gradle project does not need to be submitted. Feel free to copy the relevant classes to your own project.
 
 ####Submission
