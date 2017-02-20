@@ -8,9 +8,9 @@ See [here](https://github.com/trik-1/java-interview-challenge/blob/master/keypad
 
 The challenge is to fill in the `String getDialForString(String text)` in the `KeypadUtils` class to return the appropriate string for the given text.
 
-Spaces should return the string 0 in its position.\n
-Any non alphanumeric characters should return 1.\n
-Any Numeric character should return the number.\n
+Spaces should return the string 0 in its position.
+Any non alphanumeric characters should return 1.
+Any Numeric character should return the number.
 
 Sample input "Hel4lo ?" sample output -> "63545601"
 
