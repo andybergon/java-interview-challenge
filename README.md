@@ -16,7 +16,7 @@ Sample input "Hel4lo ?" sample output -> "63545601"
 
 Note: The return type here is String not Long or Integer.
 
-Once implemented also add any test cases to the KeypadUtilsTest class to cover any missing scenarios along with any nessacary improvements to the existing tests and classes.
+Once implemented also add any test cases to the KeypadUtilsTest class to cover any missing scenarios along with any improvements to the existing tests and classes which you feel are appropriate.
 
 The `String getDialForString(String text)` should throw an appropriate exception for invalid input.
 
