@@ -4,9 +4,6 @@ import com.google.common.collect.ImmutableMap;
 
 import java.util.Map;
 
-/**
- * Created by stephen.odonovan on 16/02/2017.
- */
 public class AlphabetConstants {
 
     public static final String alphabetUppercaseString = " ABCDEFGHIJKLMNOPQRSTUVWXYZ";

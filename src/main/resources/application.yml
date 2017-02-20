@@ -1,5 +1,0 @@
-spring:
-    application:
-        name: challengeSkeleton
-server:
-    port: 80
