@@ -23,7 +23,7 @@ The `String getDialForString(String text)` should throw an appropriate exception
 
 The project is gradle based but a gradle project does not need to be submitted. Feel free to copy the relevant classes to your own project.
 
-Remember you do not need to repeat the numbers the amound of times the button is pressed (for example the letter c should output 2 not 222)
+Remember you do not need to repeat the numbers the number of times the button is pressed (for example the letter c should output 2 not 222)
 
 ####Submission
 If possible please open a pull request against this repo to submit. Submissions via email also accepted.
