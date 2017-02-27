@@ -23,7 +23,7 @@ public class AlphabetConstants {
         KEY_PAD_STRING.put("i", "4");
         KEY_PAD_STRING.put("j", "5");
         KEY_PAD_STRING.put("k", "5");
-        KEY_PAD_STRING.put("l", "6");
+        KEY_PAD_STRING.put("l", "5");
         KEY_PAD_STRING.put("m", "6");
         KEY_PAD_STRING.put("n", "6");
         KEY_PAD_STRING.put("o", "6");
@@ -54,7 +54,7 @@ public class AlphabetConstants {
         KEY_PAD_CHAR.put('i', "4");
         KEY_PAD_CHAR.put('j', "5");
         KEY_PAD_CHAR.put('k', "5");
-        KEY_PAD_CHAR.put('l', "6");
+        KEY_PAD_CHAR.put('l', "5");
         KEY_PAD_CHAR.put('m', "6");
         KEY_PAD_CHAR.put('n', "6");
         KEY_PAD_CHAR.put('o', "6");
