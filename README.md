@@ -11,6 +11,7 @@ The challenge is to fill in the `String getDialForString(String text)` in the `K
 Spaces should return the string 0 in its position.
 Any non alphanumeric characters should have 1 in the position.
 Any Numeric character should return the number itsself in position.
+Null is invalid input and the appropriate exception should be thrown.
 
 Sample input "Hel4lo ?" sample output -> "43545601", Sample Input "H\*#)(*&" -> sample output "4111111"
 
